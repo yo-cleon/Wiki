@@ -14,7 +14,7 @@ Originalmente, este proceso de unificación no incluía compresión. Esta funcio
 
 Es importante comprender que el formato .TAR no permite comprimir la información de forma nativa, sino que es necesario el uso de una librería externa tal como GZip, 7-Zip, PeaZip u alguna otra nativa o de tercero. Podemos validar estos formatos en las extensiones: .TAR.GZ, .GZ o TGZ.
 
-A estos archivos .TAR compresos se les conoce como tarballs y pueden ser fácilmente identificados por utilizar “doble” extensión (.TAR.GZ).  Para no caer en confusiones, las extensiones .GZ y .TGZ son formas cortas de renombrar .TAR.GZ.
+A estos archivos .TAR compresos se les conoce como tarballs y pueden ser fácilmente identificados por utilizar “doble” extensión (.TAR.GZ). Para no caer en confusiones, las extensiones .GZ y .TGZ son formas cortas de renombrar .TAR.GZ.
 
 Si deseásemos crear un archivo .TAR comprimido, podemos ejecutar el siguiente comando:
 
@@ -45,9 +45,6 @@ nombre-del-archivo.tar
 
 [/otros]
 : Al estar entre Brakes o Corchetes “[]” se aplica a una parte del comando que puede ser opcional. Corresponde a la ruta de archivos o carpetas adicionales que pueden ser añadidas al .TAR.
-
-
-
 
 ## Gzip, gunzip
 
