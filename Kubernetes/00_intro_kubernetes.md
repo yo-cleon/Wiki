@@ -43,5 +43,5 @@ Kubernetes se gestion con manifiestos declarativos. Mediante la creación de un 
 
 ## Links
 
-* Pelado Nerd:
-  * [¿Qué es Kubernetes?](https://www.youtube.com/watch?v=oTf0KxK1QNo&list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_&index=1)
+- Pelado Nerd:
+  - [¿Qué es Kubernetes?](https://www.youtube.com/watch?v=oTf0KxK1QNo&list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_&index=1)
